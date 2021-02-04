@@ -16,6 +16,18 @@ Aqui está algumas das minhas redes sociais e uma breve descrição sobre mim:
 
 </p>
 
+ ##  Experiências:
+ 
+**Meta Soluções** - Desenvolverdor de Sistemas  
+*Abril de 2020 até o momento*
+> Atuação no desenvolvimento da plataforma de soluções para e-commerce integrada para otimizar a performance nas vendas além da otimização do tempo dos usuários.  
+Atuando também nas integrações com APIs de terceiros, na automatização de processos e otimização das aplicações para manter uma melhor performance, eficiência e garantir alta disponibilidade. 
+> Desenvolvimento utilizando a metodologia ágil SCRUM utilizando Kanban para gerenciamento das atividades.  
+Utilizando Excel, ScriptCase.  
+Trabalhando também com o conceito de eventos e filas.  
+Prezando por boas práticas de design e clean code, assim como a realização de code review.  
+
+
 Um pouco sobre mim:
 
 - Sou Edgar Oliveira, desenvolvedor de Software e Hardware, pesquisador, aficionado em tecnologia, impressão 3D, microcontroladores e participante ativo de Projetos de Iniciação ciêntifica, workshops, congressos e eventos de TI.
