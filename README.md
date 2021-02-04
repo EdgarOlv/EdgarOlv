@@ -13,23 +13,14 @@ Aqui está algumas das minhas redes sociais e uma breve descrição sobre mim:
 <center>
   <table>
     <tr>
-        ![Edgar Oliveira' Github Status]
         <td><img width="420px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarolv&hide=html&layout=compact&theme=tokyonight" /></td>
-        ![Top Linguagens]
+
         <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=edgarolv&theme=tokyonight"/></td>
     </tr>   
   </table>
 </center>  
 
 <br>
-
-<p align="left">
-  
-![Edgar Oliveira' Github Status](https://github-readme-stats.vercel.app/api?username=edgarolv&show_icons=true&theme=tokyonight)
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarolv&layout=compact&theme=radical)
-
-</p>
 
  ##  Experiências:
  
