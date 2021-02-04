@@ -8,6 +8,19 @@ Aqui está algumas das minhas redes sociais e uma breve descrição sobre mim:
 
 [![Gmail Badge](https://img.shields.io/badge/edgaroliveira1258@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edgaroliveira1258@gmail.com)](mailto:edgaroliveira1258@gmail.com)
 
+<br>
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarolv&hide=html&layout=compact&theme=tokyonight" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=edgarolv&theme=tokyonight"/></td>
+    </tr>   
+  </table>
+</center>  
+
+<br>
+
 <p align="left">
   
 ![Edgar Oliveira' Github Status](https://github-readme-stats.vercel.app/api?username=edgarolv&show_icons=true&theme=tokyonight)
