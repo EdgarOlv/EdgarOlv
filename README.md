@@ -8,7 +8,7 @@ Aqui está algumas das minhas redes sociais e uma breve descrição sobre mim:
 
 [![Gmail Badge](https://img.shields.io/badge/edgaroliveira1258@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edgaroliveira1258@gmail.com)](mailto:edgaroliveira1258@gmail.com)
 
-<p align="center">
+<p align="left">
   
 ![Edgar Oliveira' Github Status](https://github-readme-stats.vercel.app/api?username=edgarolv&show_icons=true&theme=tokyonight)
 
@@ -29,7 +29,7 @@ Prezando por boas práticas de design e clean code, assim como a realização de
 
 <br>
 
-##Um pouco sobre mim:
+ ##  Um pouco sobre mim:
 
 - Sou Edgar Oliveira, desenvolvedor de Software e Hardware, pesquisador, aficionado em tecnologia, impressão 3D, microcontroladores e participante ativo de Projetos de Iniciação ciêntifica, workshops, congressos e eventos de TI.
 - 🎓 Graduando em Engenharia da Computação pela <strong>FAINOR</strong>.
