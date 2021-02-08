@@ -34,8 +34,8 @@ Prezando por boas práticas de design e clean code, assim como a realização de
 
 <br>
 
-**Império Maker** - Modelação e Manufatura Aditiva 3D
 
+**Império Maker** - Modelação e Manufatura Aditiva 3D  
 *Novembro de 2019 até o momento*
 
 >Atuação em modelagem tridimensional de objetos de diversas formas e estilos, e posteriormente a impressão para fabricação do item.
@@ -44,7 +44,6 @@ Tendo incorporado um sistema de gestão e logistica para entrega de produtos e o
 <br>
 
 **FAINOR** - Professor e Acadêmico IC  
-
 *Junho de 2019 até o momento*
 
 >Discente em projeto de Iniciação Ciêntifica, trabalho especificadamente com Fisica e computação através de experimentações e desenvolvimento de sistemas de software e hardware.
