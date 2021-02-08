@@ -43,7 +43,8 @@ Tendo incorporado um sistema de gestão e logistica para entrega de produtos e o
 
 **FAINOR** - Professor e Acadêmico IC
 *Junho de 2019 até o momento*
-Discente em projeto de Iniciação Ciêntifica, trabalho especificadamente com Fisica e computação através de experimentações e desenvolvimento de sistemas de software e hardware.
+
+>Discente em projeto de Iniciação Ciêntifica, trabalho especificadamente com Fisica e computação através de experimentações e desenvolvimento de sistemas de software e hardware.
 >Professor de minicurso de **FPGA e PIC**, desde os conceitos teoricos, até a pratica e programação das placas de prototipação, desenvolvendo assim projetos de hardware.
 >Professor de minicurso de **Placa de Circuito Impresso**, tendo abordado a teoria das placas PCI e confecção de projeto.
 <br>
