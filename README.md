@@ -31,7 +31,16 @@ Atuando também nas integrações com APIs de terceiros, na automatização de p
 Utilizando Excel, VBA, ScriptCase.  
 Trabalhando também com o conceito de eventos e filas.  
 Prezando por boas práticas de design e clean code, assim como a realização de code review.  
-
+<br>
+**Império Maker** - Modelação e Manufatura Aditiva 3D 
+*Novembro de 2019 até o momento*
+>Atuação em modelagem tridimensional de objetos de diversas formas e estilos, e posteriormente a impressão para fabricação do item.  
+Tendo imcorporado um sistema de gestão e logistica para entrega de produtos e organização estrutural de todos os processos.  
+<br>
+**FAINOR** - Professor e Acadêmico IC
+*Junho de 2019 até o momento*
+>Professor de minicurso de **FPGA e PIC**, desde os conceitos teoricos, até a pratica e programação das placas de prototipação, desenvolvendo assim projetos de hardware.
+>Professor de minicurso de **Placa de Circuito Impresso**, tendo abordado a teoria das placas PCI e confecção de projeto.
 <br>
 
  ##  Um pouco sobre mim:
