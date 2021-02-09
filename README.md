@@ -35,7 +35,7 @@ Prezando por boas práticas de design e clean code, assim como a realização de
 <br>
 
 
-**Império Maker** - Modelação e Manufatura Aditiva 3D  
+**Império Maker** - Modelagem e Manufatura Aditiva 3D  
 *Novembro de 2019 até o momento*
 
 >Atuação em modelagem tridimensional de objetos de diversas formas e estilos, e posteriormente a impressão para fabricação do item.
