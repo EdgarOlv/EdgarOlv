@@ -43,7 +43,7 @@ Tendo incorporado um sistema de gestão e logistica para entrega de produtos e o
 
 <br>
 
-**FAINOR** - Professor e Acadêmico IC  
+**FAINOR** - Ministrante de Minicursos e Pesquisador IC  
 *Junho de 2019 até o momento*
 
 >Discente em projeto de Iniciação Ciêntifica, trabalho especificadamente com Fisica e computação através de experimentações e desenvolvimento de sistemas de software e hardware.
