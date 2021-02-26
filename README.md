@@ -57,4 +57,5 @@ Tendo incorporado um sistema de gestão e logistica para entrega de produtos e o
 - 🎓 Graduando em Engenharia da Computação pela <strong>FAINOR</strong>.
 - 💼 Analista e desenvolvedor de software na <strong>Meta Soluções</strong>.
 - 📚 Atualmente desenvolvo aplicações com ESP32/NodeMCU, como também aplicações em Python e Javascript. Publico sempre que possivel projetos que desenvolvo em algumas linguagens como o proprio Python, JS, Goland, HTML, C++. Além de desenvolver diarimente projetos em VBA.
+- 📟 Desenvolvedor de Projetos com Arduino(Atmega328p), Raspberry Pi 3B, e NodeMCU.
 - 🤓 Aprendendo sobre Goland, MongoDB, Lora e SolidWorks.
