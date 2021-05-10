@@ -1,17 +1,13 @@
 ## Hi there 👋, I'm Edgar! Welcome to my GitHub!
 
 My name is Edgar Oliveira and I have a degree in computer engineering (2021), I am also a microprocessor hardware developer
-with PIC, Arduino and FPGA and Full Stack at Meta Solutions, where we develop software for companies and We develop the integrated e-commerce solutions platform to optimize sales performance in addition to optimizing users' time.
-Also acting in integrations with third-party APIs, in the automation of processes and optimization of applications to maintain a better performance, efficiency and ensure high availability.
+with PIC, Arduino and FPGA
+
+I'm Full Stack at **Meta Solutions** in Vitoria da Conquista / BA - Brazil, where we develop software for companies and We operate in the development of the integrated e-commerce solutions platform to optimize sales performance in addition optimization of users' time.Also acting in integrations with third-party APIs, in the automation of processes and optimization of applications to maintain a better performance, efficiency and ensure high availability.
 
 Aqui está algumas das minhas redes sociais e uma breve descrição sobre mim:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EdgarOlv)](https://github.com/EdgarOlv)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edgarolv/)](https://www.linkedin.com/in/edgarolv/)
-
-
-[![Gmail Badge](https://img.shields.io/badge/edgaroliveira1258@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edgaroliveira1258@gmail.com)](mailto:edgaroliveira1258@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EdgarOlv)](https://github.com/EdgarOlv) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edgarolv/)](https://www.linkedin.com/in/edgarolv/)  [![Gmail Badge](https://img.shields.io/badge/edgaroliveira1258@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edgaroliveira1258@gmail.com)](mailto:edgaroliveira1258@gmail.com)
 
 <br>
 
