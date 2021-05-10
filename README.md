@@ -5,7 +5,14 @@ with PIC, Arduino and FPGA
 
 I'm Full Stack at **Meta Solutions** in Vitoria da Conquista / BA - Brazil, where we develop software for companies and We operate in the development of the integrated e-commerce solutions platform to optimize sales performance in addition optimization of users' time.Also acting in integrations with third-party APIs, in the automation of processes and optimization of applications to maintain a better performance, efficiency and ensure high availability.
 
-Aqui está algumas das minhas redes sociais e uma breve descrição sobre mim:
+ ##  A little about me:
+ 
+- I'm Edgar Oliveira, Software and Hardware developer, researcher, technology enthusiast, 3D printing, microcontrollers and active participant in Scientific Initiation Projects, workshops, congresses and IT events.
+- 🎓 Graduating in Computer Engineering from <strong> FAINOR </strong>.
+- 💼 Analyst and software developer at <strong> Meta Soluções </strong>.
+- Currently I develop applications with ESP32 / NodeMCU, as well as applications in Python and Javascript. I publish whenever possible projects that I develop in some languages ​​such as Python, JS, Goland, HTML, C ++. In addition to developing daily projects in VBA.
+- 📟 Project Developer with Arduino (Atmega328p), Raspberry Pi 3B, and NodeMCU.
+- 🤓 Learning about Goland, MongoDB, Lora and SolidWorks.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EdgarOlv)](https://github.com/EdgarOlv) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edgarolv/)](https://www.linkedin.com/in/edgarolv/)  [![Gmail Badge](https://img.shields.io/badge/edgaroliveira1258@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edgaroliveira1258@gmail.com)](mailto:edgaroliveira1258@gmail.com)
 
@@ -52,11 +59,4 @@ Tendo incorporado um sistema de gestão e logistica para entrega de produtos e o
 >Professor de minicurso de **Placa de Circuito Impresso**, tendo abordado a teoria das placas PCI e confecção de projeto.
 <br>
 
- ##  Um pouco sobre mim:
 
-- Sou Edgar Oliveira, desenvolvedor de Software e Hardware, pesquisador, aficionado em tecnologia, impressão 3D, microcontroladores e participante ativo de Projetos de Iniciação ciêntifica, workshops, congressos e eventos de TI.
-- 🎓 Graduando em Engenharia da Computação pela <strong>FAINOR</strong>.
-- 💼 Analista e desenvolvedor de software na <strong>Meta Soluções</strong>.
-- 📚 Atualmente desenvolvo aplicações com ESP32/NodeMCU, como também aplicações em Python e Javascript. Publico sempre que possivel projetos que desenvolvo em algumas linguagens como o proprio Python, JS, Goland, HTML, C++. Além de desenvolver diarimente projetos em VBA.
-- 📟 Desenvolvedor de Projetos com Arduino(Atmega328p), Raspberry Pi 3B, e NodeMCU.
-- 🤓 Aprendendo sobre Goland, MongoDB, Lora e SolidWorks.
