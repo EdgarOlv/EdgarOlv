@@ -1,4 +1,5 @@
-## Olá, bem-vindo ao meu perfil do GitHub!!
+## Hi there 👋, I'm Edgar! Welcome to my GitHub!
+
 Aqui está algumas das minhas redes sociais e uma breve descrição sobre mim:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EdgarOlv)](https://github.com/EdgarOlv)
