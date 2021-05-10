@@ -1,5 +1,9 @@
 ## Hi there 👋, I'm Edgar! Welcome to my GitHub!
 
+My name is Edgar Oliveira and I have a degree in computer engineering (2021), I am also a microprocessor hardware developer
+with PIC, Arduino and FPGA and Full Stack at Meta Solutions, where we develop software for companies and We develop the integrated e-commerce solutions platform to optimize sales performance in addition to optimizing users' time.
+Also acting in integrations with third-party APIs, in the automation of processes and optimization of applications to maintain a better performance, efficiency and ensure high availability.
+
 Aqui está algumas das minhas redes sociais e uma breve descrição sobre mim:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EdgarOlv)](https://github.com/EdgarOlv)
