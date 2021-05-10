@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Edgar! Welcome to my GitHub!
+### Hi there 👋, I'm Edgar! Welcome to my GitHub!
 
 Aqui está algumas das minhas redes sociais e uma breve descrição sobre mim:
 
