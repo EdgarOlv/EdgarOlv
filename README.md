@@ -17,7 +17,7 @@ with PIC, Arduino and FPGA. Software and Hardware developer, researcher, technol
 
 ## Where can you find me?
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EdgarOlv)](https://github.com/EdgarOlv) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edgarolv/)](https://www.linkedin.com/in/edgarolv/)  [![Gmail Badge](https://img.shields.io/badge/edgaroliveira1258@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edgaroliveira1258@gmail.com)](mailto:edgaroliveira1258@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EdgarOlv)](https://github.com/EdgarOlv) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/edgarolv/)  [![Gmail Badge](https://img.shields.io/badge/edgaroliveira1258@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edgaroliveira1258@gmail.com)](mailto:edgaroliveira1258@gmail.com)
 
 <br>
 
@@ -36,9 +36,9 @@ with PIC, Arduino and FPGA. Software and Hardware developer, researcher, technol
  
 **Meta Soluções** - Systems Developer 
 *May 2020 so far*
-> Expertise in developing the integrated e-commerce solutions platform to optimize sales performance in addition to optimizing users' time.
+> <p>Expertise in developing the integrated e-commerce solutions platform to optimize sales performance in addition to optimizing users' time.
 Also acting in integrations with third-party APIs, in the automation of processes and optimization of applications to maintain a better performance, efficiency and ensure high availability.
-> Development using the agile SCRUM methodology to manage activities.
+> <p>Development using the agile SCRUM methodology to manage activities.
 Using Excel, VBA, ScriptCase.
 Also working with the concept of events and queues.
 Valuing good design practices and clean code, as well as conducting code review.
@@ -49,7 +49,7 @@ Valuing good design practices and clean code, as well as conducting code review.
 **Império Maker** - 3D Additive Manufacturing and Modeling  
 *November 2019 so far*
 
->Expertise in three-dimensional modeling of objects of various shapes and styles, and subsequently printing for the manufacture of the item.
+><p>Expertise in three-dimensional modeling of objects of various shapes and styles, and subsequently printing for the manufacture of the item.
 Having incorporated a management and logistics system for product delivery and structural organization of all processes.
 
 <br>
@@ -57,8 +57,8 @@ Having incorporated a management and logistics system for product delivery and s
 **FAINOR** - Minicourses Minister and IC Researcher  
 *June 2019 so far*
 
->Student in a Scientific Initiation project, I work specifically with Physics and Computing through experimentation and development of software and hardware systems.
-> ** FPGA and PIC ** short course teacher, from the theoretical concepts, to the practice and programming of prototyping boards, thus developing hardware projects.
-> Professor of ** Printed Circuit Board ** short course, having addressed the theory of PCI boards and project making.
+><p>Student in a Scientific Initiation project, I work specifically with Physics and Computing through experimentation and development of software and hardware systems.
+> **FPGA and PIC** short course teacher, from the theoretical concepts, to the practice and programming of prototyping boards, thus developing hardware projects.
+> Professor of **Printed Circuit Board** short course, having addressed the theory of PCI boards and project making.
 <br>
 
