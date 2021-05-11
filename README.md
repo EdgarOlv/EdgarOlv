@@ -17,7 +17,7 @@ with PIC, Arduino and FPGA. Software and Hardware developer, researcher, technol
 
 ## Where can you find me?
 
-(https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/EdgarOlv)](https://github.com/EdgarOlv) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/edgarolv/)  [![Gmail Badge](https://img.shields.io/badge/edgaroliveira1258@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edgaroliveira1258@gmail.com)](mailto:edgaroliveira1258@gmail.com)
+[<img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/EdgarOlv"/>] [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/edgarolv/)  [![Gmail Badge](https://img.shields.io/badge/edgaroliveira1258@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edgaroliveira1258@gmail.com)](mailto:edgaroliveira1258@gmail.com)
 https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 <br>
 
