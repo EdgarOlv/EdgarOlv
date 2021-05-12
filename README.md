@@ -3,7 +3,7 @@
   My name is Edgar Oliveira and I have a degree in computer engineering (2021) at FAINOR, I am also a microprocessor hardware developer
 with PIC, Arduino and FPGA. Software and Hardware developer, researcher, technology enthusiast, 3D printing, microcontrollers and active participant in Scientific Initiation Projects, workshops, congresses and IT events.
 
-  I'm Full Stack at **Meta Solutions** in Vitoria da Conquista / BA - Brazil, where we develop software for companies and We operate in the development of the integrated e-commerce solutions platform to optimize sales performance in addition optimization of users' time. cations to maintain a better performance, efficiency and ensure high availability.
+  I'm Full Stack at **Meta Solutions** in Vitoria da Conquista / BA - Brazil, where we develop software for companies and We operate in the development of the integrated e-commerce solutions platform to optimize sales performance in addition optimization of users' time.
 
  ##  A little about me:
  
