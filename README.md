@@ -10,7 +10,7 @@ with PIC, Arduino and FPGA. Software and Hardware developer, researcher, technol
 - 🎓 Graduating in Computer Engineering from <strong> FAINOR </strong>.
 - 💼 Analyst and software developer at <strong> Meta Soluções </strong>.
 - Currently I develop applications with ESP32 / NodeMCU, as well as applications in Python and Javascript. I publish whenever possible projects that I develop in some languages ​​such as Python, JS, Goland, HTML, C ++. In addition to developing daily projects in VBA.
-- 📟 Project Developer with Arduino (Atmega328p), Raspberry Pi 3B, and NodeMCU.
+- 📟 Project Developer with Arduino (Atmega328p), Raspberry Pi 3, and NodeMCU.
 - 🤓 Learning about Goland, MongoDB, Lora and SolidWorks.
 
 <br>
