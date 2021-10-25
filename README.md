@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Edgar! Welcome to my GitHub!
+## Olá 👋, sou o Edgar! Bem-vindo ao meu GitHub!
 
   Meu nome é Edgar Oliveira e possuo graduação em Engenharia da Computação pela Faculdade Independente do Nordeste FAINOR (2021). Desenvolvo aplicações para hardware como os microcontroladores PIC, AVR(Arduino) e FPGA. Sou desenvolvedor de Softwares, pesquisador, entusiasta de tecnologia, Modelador 3D como também realizo a impressão das peças.   Participo ativamente Projetos de Extensão e Pesquisa, Congressos e Eventos de TI,  desenvolvendo e participando de atividades extracurriculares efetivamente.
   
