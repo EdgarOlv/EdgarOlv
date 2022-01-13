@@ -6,7 +6,7 @@ Sou desenvolvedor Full Stack na Meta Soluções em Vitória da Conquista / BA - 
 
  ##  A little about me:
  
-- 🎓 Graduando em Engenharia da Computação pela <strong> FAINOR </strong>.
+- 🎓 Graduado em Engenharia da Computação pela <strong> FAINOR </strong>.
 - 💼 Analista e desenvolvedor de software em <strong> Meta Soluções </strong>.
 - Atualmente desenvolvo aplicações com ESP32 / NodeMCU, bem como aplicações em Python e Javascript. Publico sempre que possível projetos que desenvolvo em algumas línguas ​​ como Python, JS, Goland, HTML, C ++. Além de desenvolver projetos diários em VBA.
 - 📟 Desenvolvedor de Projetos com Arduino (Atmega328p), Raspberry Pi 3, e NodeMCU.
