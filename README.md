@@ -37,7 +37,8 @@ Sou desenvolvedor Full Stack na Meta Soluções em Vitória da Conquista / BA - 
 **Facilita.Tech** - Desenvolvedor Android Jr <br>
 *Mar 2022 até o momento*
 > Desenvolvedor de aplicações mobile utilizando Kotlin.
- 
+
+ <br> 
  
 **SENAC** - Professor no curso de Administrador de Banco de Dados<br>
 *Nov 2020 até o momento*
@@ -45,7 +46,7 @@ Sou desenvolvedor Full Stack na Meta Soluções em Vitória da Conquista / BA - 
 
 <br> 
  
-**Meta Soluções** - Desenvolvedor de sistemas
+**Meta Soluções** - Desenvolvedor de sistemas<br>
 *Maio 2020 até o momento*
 > Atuação no desenvolvimento de plataforma de soluções integradas de e-commerce para otimizar a performance de vendas além de otimizar o tempo dos usuários.
 Atuando também em integrações com APIs de terceiros, na automação de processos e otimização de aplicações para manter um melhor desempenho, eficiência e garantir alta disponibilidade.
@@ -57,7 +58,7 @@ Valorizar as boas práticas de design e código limpo, bem como conduzir a revis
 <br>
 
 
-**Império Maker** - Modelagem e Manufatura aditiva 3D
+**Império Maker** - Modelagem e Manufatura aditiva 3D<br>
 *November 2019 até Fev 2022*
 
 >Atuação na modelagem tridimensional de objetos de diversas formas e estilos, e posteriormente impressão para a confecção do item.
@@ -65,7 +66,7 @@ Tendo incorporado um sistema de gestão e logística para entrega de produtos e 
 
 <br>
 
-**FAINOR** - Ministro de Minicursos e Pesquisador IC 
+**FAINOR** - Ministro de Minicursos e Pesquisador IC <br>
 *Junho 2019 até Nov 2021*
 
 > Aluno em projeto de Iniciação Científica, atuo especificamente com Física e Computação através da experimentação e desenvolvimento de sistemas de software e hardware.
