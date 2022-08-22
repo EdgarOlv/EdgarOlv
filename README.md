@@ -7,7 +7,8 @@ Sou desenvolvedor Full Stack na Meta Soluções em Vitória da Conquista / BA - 
  ##  Um pouco sobre mim:
  
 - 🎓 Graduado em Engenharia da Computação pela <strong> FAINOR </strong>.
-- 💼 Analista e desenvolvedor de software em <strong> Meta Soluções </strong>.
+- 📱  Desenvolvedor Mobile Kotlin em <strong> Facilita.Tech </strong>.
+- 💻 Analista e desenvolvedor de software em <strong> Meta Soluções </strong>.
 - Atualmente desenvolvo aplicações WEB(Bootstrap, Js) e aplicações Mobile(Java, Kotlin). Publico sempre que possível projetos que desenvolvo em algumas línguagens como Python, JS, Goland, HTML, C++. Além de desenvolver projetos diários em VBA e PHP.
 - 📟 Desenvolvedor de Projetos com Arduino (Atmega328p), Raspberry Pi 3, e NodeMCU.
 - 🤓 Aprendendo sobre Goland, MongoDB, Firebase, Lora e SolidWorks.
