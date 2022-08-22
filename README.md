@@ -33,6 +33,11 @@ Sou desenvolvedor Full Stack na Meta Soluções em Vitória da Conquista / BA - 
 
  ##  Experiência:
  
+  
+**Facilita.Tech** - Desenvolvedor Android Jr
+*Mar 2022 até o momento*
+> Desenvolvedor de aplicações mobile utilizando Kotlin.
+ 
 **SENAC** - Professor no curso de Administrador de Banco de Dados
 *Nov 2020 até o momento*
 > Professor de banco de dados relacional MySQL no curso de administrador de banco de dados.
