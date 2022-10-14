@@ -36,24 +36,29 @@ Sou desenvolvedor Full Stack na Meta Soluções em Vitória da Conquista / BA - 
   
 **Facilita.Tech** - Desenvolvedor Android Jr <br>
 *Mar 2022 até o momento*
-> Desenvolvedor de aplicações mobile utilizando Kotlin.
-
+Utilizando a Metodologia Scrum:
+- Desenvolvimento com a linguagem Kotlin. 
+- Desenvolvimento de interfaces gráficas
+- Comunicação com API Rest e banco de dados SQLite
+- Desenvolvimento utilizando GIT e GitHub.
  <br> 
  
 **SENAC** - Professor no curso de Administrador de Banco de Dados<br>
 *Nov 2020 até o momento*
-> Professor de banco de dados relacional MySQL no curso de administrador de banco de dados.
-
+Atuando no ensino da administração de banco de dados:
+- Banco de dados Relacionamental MySQL, MariaDB e SQLite.
+- Administração de recursos para manter um servidor BD.
+- Aplicações para consumir dados do banco
+- Monitoramento e manutenção de um banco.
 <br> 
  
 **Meta Soluções** - Desenvolvedor de sistemas<br>
 *Maio 2020 até o momento*
-> Atuação no desenvolvimento de plataforma de soluções integradas de e-commerce para otimizar a performance de vendas além de otimizar o tempo dos usuários.
-Atuando também em integrações com APIs de terceiros, na automação de processos e otimização de aplicações para manter um melhor desempenho, eficiência e garantir alta disponibilidade.
-> Desenvolvimento utilizando a metodologia ágil SCRUM para gerenciamento de atividades.
-Usando Excel, VBA, ScriptCase.
-Trabalhando também com o conceito de eventos e filas.
-Valorizar as boas práticas de design e código limpo, bem como conduzir a revisão do código.
+Atuação no desenvolvimento de aplicações, utilizando a metodologia ágil SCRUM:
+- Desenvolvimento de planilhas Excel utilizando VBA e banco Access.
+- Desenvolvimento de sistemas WEB com PHP, Javascript e Frameworks.
+- Criação e consumo de APIs para alimentar os sistemas
+- Plataforma E-Commerce.
 
 <br>
 
@@ -61,8 +66,11 @@ Valorizar as boas práticas de design e código limpo, bem como conduzir a revis
 **Império Maker** - Modelagem e Manufatura aditiva 3D<br>
 *November 2019 até Fev 2022*
 
->Atuação na modelagem tridimensional de objetos de diversas formas e estilos, e posteriormente impressão para a confecção do item.
-Tendo incorporado um sistema de gestão e logística para entrega de produtos e organização estrutural de todos os processos.
+Atuação na impressão 3D:
+- Modelagem de peças com SketchUp, Fusion360 e Blender.
+- Impressão 3D em FDM.
+- Fresagem em CNC.
+- Produção de E-commerce.
 
 <br>
 
