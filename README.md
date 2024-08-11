@@ -1,17 +1,31 @@
 ## Olá 👋, sou o Edgar! Bem-vindo ao meu GitHub!
 
-  Meu nome é Edgar Oliveira e possuo graduação em Engenharia da Computação pela Faculdade Independente do Nordeste FAINOR (2021). Desenvolvo aplicações para hardware como os microcontroladores PIC, AVR(Arduino) e FPGA. Sou desenvolvedor de Softwares, pesquisador, entusiasta de tecnologia, Modelador 3D como também realizo a impressão das peças.
-  
-Sou desenvolvedor Full Stack na Meta Soluções em Vitória da Conquista / BA - Brasil, onde desenvolvemos softwares para empresas e atuamos no desenvolvimento da plataforma de soluções integradas de e-commerce para otimizar a performance de vendas além da otimização do tempo dos usuários.
+  Sou Engenheiro da Computação formado pela FAINOR em 2021, com sólida experiência como Desenvolvedor Android, especializado no desenvolvimento e manutenção de aplicativos para a plataforma Android. Proficiente em Java, Kotlin, Android SDK, Android Studio, MVVM, C#, Js, Git, GitHub, RESTful APIs, SOLID, Android Jetpack e Firebase. Demonstrando habilidade na aplicação de metodologias ágeis, como AGILE e SCRUM, garantindo eficiência nos processos de desenvolvimento.
+
+Possuo habilidades versáteis, destacando pela capacidade de trabalhar de forma independente e em equipe, excelente comunicação e relacionamento interpessoal, além de uma notável aptidão para aprendizado rápido e adaptação.
+
+Conhecimentos Técnicos:
+
+- Desenvolvimento Android: Android SDK, Android Studio, MVVM, Android Jetpack, Flutter
+- Linguagens de Programação: Java, Kotlin, C#, JavaScript, Typescript
+- Controle de Versão: Git, GitHub
+- Arquitetura de Software: RESTful APIs, SOLID, MVVM
+- Metodologias Ágeis: AGILE, SCRUM
+- Servidores Web: Azure, Firebase, AWS
+- Bancos de Dados: MySQL, SQLite, MongoDB, NoSql Firestore
+- Front-end: Bootstrap, React
+- Back-end: Node.js, Laravel
+- Ferramentas de Desenvolvimento: ScriptCase
+- Sistemas IoT: MQTT
+- Modelagem e Impressão 3D: SketchUp, Fusion360, SolidWorks, CURA.
 
  ##  Um pouco sobre mim:
  
 - 🎓 Graduado em Engenharia da Computação pela <strong> FAINOR </strong>.
-- 📱  Desenvolvedor Mobile Kotlin em <strong> Facilita.Tech </strong>.
-- 💻 Analista e desenvolvedor de software em <strong> Meta Soluções </strong>.
-- Atualmente desenvolvo aplicações WEB(Bootstrap, Js) e aplicações Mobile(Java, Kotlin). Publico sempre que possível projetos que desenvolvo em algumas línguagens como Python, JS, Goland, HTML, C++. Além de desenvolver projetos diários em VBA e PHP.
+- 📱 Desenvolvedor Mobile Kotlin em <strong> Guarani Sistemas </strong>.
+- 💻 Consultor e desenvolvedor de software em <strong> Simula Health </strong>.
+- Atualmente desenvolvo aplicações WEB(React, Js) e aplicações Mobile(Java, Kotlin). Publico sempre que possível projetos que desenvolvo em algumas línguagens como Python, JS, Goland, HTML, C++.
 - 📟 Desenvolvedor de Projetos com Arduino (Atmega328p), Raspberry Pi 3, e NodeMCU.
-- 🤓 Aprendendo sobre Goland, MongoDB, Firebase, Lora e SolidWorks.
 
 <br>
 
@@ -33,9 +47,19 @@ Sou desenvolvedor Full Stack na Meta Soluções em Vitória da Conquista / BA - 
 
  ##  Experiência:
  
+
+**Guarani Sistemas** - Desenvolvedor Android Pleno <br>
+*Fev 2024 até o momento*
+Utilizando a Metodologia Scrum:
+- Implementações e correções na aplicação existente
+- Planejamento e direcionamento em aplicação nova
+- Processo de migração de Java para Kotlin
+- Uso de bibliotecas e frameworks Android
+- Aplicação de princípios de arquitetura de software (SOLID)
+ <br> 
   
 **Facilita.Tech** - Desenvolvedor Android Jr <br>
-*Mar 2022 até o momento*
+*Mar 2022 até Fev 2024*
 Utilizando a Metodologia Scrum:
 - Desenvolvimento com a linguagem Kotlin. 
 - Desenvolvimento de interfaces gráficas
