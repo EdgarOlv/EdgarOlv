@@ -1,108 +1,177 @@
-## Olá 👋, sou o Edgar! Bem-vindo ao meu GitHub!
+# 👋 Olá, eu sou Edgar Oliveira
 
-  Sou Engenheiro da Computação formado pela FAINOR em 2021, com sólida experiência como Desenvolvedor Android, especializado no desenvolvimento e manutenção de aplicativos para a plataforma Android. Proficiente em Java, Kotlin, Android SDK, Android Studio, MVVM, C#, Js, Git, GitHub, RESTful APIs, SOLID, Android Jetpack e Firebase. Demonstrando habilidade na aplicação de metodologias ágeis, como AGILE e SCRUM, garantindo eficiência nos processos de desenvolvimento.
+Sou **Engenheiro de Computação** e **Desenvolvedor de Software**, com experiência principalmente em desenvolvimento **Mobile, Backend e Web**, além de interesse crescente em **Arquitetura de Software, Inteligência Artificial, Cloud e sistemas distribuídos**.
 
-Possuo habilidades versáteis, destacando pela capacidade de trabalhar de forma independente e em equipe, excelente comunicação e relacionamento interpessoal, além de uma notável aptidão para aprendizado rápido e adaptação.
+Minha trajetória começou próxima de hardware, eletrônica e sistemas embarcados e, ao longo dos anos, evoluiu para o desenvolvimento de aplicações e sistemas completos — passando por Android, APIs, bancos de dados, aplicações web, automações e infraestrutura.
 
-Conhecimentos Técnicos:
+Atualmente trabalho profissionalmente com desenvolvimento de software, principalmente no ecossistema **Android**, participando também de decisões técnicas, arquitetura, qualidade de código e evolução de aplicações.
 
-- Desenvolvimento Android: Android SDK, Android Studio, MVVM, Android Jetpack, Flutter
-- Linguagens de Programação: Java, Kotlin, C#, JavaScript, Typescript
-- Controle de Versão: Git, GitHub
-- Arquitetura de Software: RESTful APIs, SOLID, MVVM
-- Metodologias Ágeis: AGILE, SCRUM
-- Servidores Web: Azure, Firebase, AWS
-- Bancos de Dados: MySQL, SQLite, MongoDB, NoSql Firestore
-- Front-end: Bootstrap, React
-- Back-end: Node.js, Laravel
-- Ferramentas de Desenvolvimento: ScriptCase
-- Sistemas IoT: MQTT
-- Modelagem e Impressão 3D: SketchUp, Fusion360, SolidWorks, CURA.
+📍 São Carlos/SP — Brasil
+🎓 Engenheiro de Computação
+💼 Software Engineer / Mobile Developer
+🔗 [LinkedIn](https://www.linkedin.com/in/EdgarOlv)
+📧 [edgaroliveira1258@gmail.com](mailto:edgaroliveira1258@gmail.com)
 
- ##  Um pouco sobre mim:
- 
-- 🎓 Graduado em Engenharia da Computação pela <strong> FAINOR </strong>.
-- 📱 Desenvolvedor Mobile Kotlin em <strong> Guarani Sistemas </strong>.
-- 💻 Consultor e desenvolvedor de software em <strong> Simula Health </strong>.
-- Atualmente desenvolvo aplicações WEB(React, Js) e aplicações Mobile(Java, Kotlin). Publico sempre que possível projetos que desenvolvo em algumas línguagens como Python, JS, Goland, HTML, C++.
-- 📟 Desenvolvedor de Projetos com Arduino (Atmega328p), Raspberry Pi 3, e NodeMCU.
+---
 
-<br>
+## 🚀 Áreas de Interesse
 
-## Onde você pode me achar?
+* Arquitetura de Software
+* Desenvolvimento Mobile
+* Backend e APIs
+* Inteligência Artificial
+* Cloud Computing
+* Sistemas Distribuídos
+* Engenharia de Software
+* Automação e integração de sistemas
+* IoT, eletrônica e sistemas embarcados
 
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/EdgarOlv)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/edgarolv/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:edgaroliveira1258@gmail.com) 
-<br>
+---
 
-<center>
-  <table>
-    <tr>
-        <td><img width="420px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarolv&hide=html&layout=compact&theme=tokyonight" /></td>
-        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=edgarolv&theme=tokyonight"/></td>
-    </tr>   
-  </table>
-</center>  
+## 🧰 Tecnologias
 
-<br>
+### Mobile
 
- ##  Experiência:
- 
+* **Kotlin**
+* **Java**
+* Android SDK
+* Jetpack
+* MVVM
+* Arquitetura modular
+* JUnit
+* Flutter / Dart
 
-**Guarani Sistemas** - Desenvolvedor Android Pleno <br>
-*Fev 2024 até o momento*
-Utilizando a Metodologia Scrum:
-- Implementações e correções na aplicação existente
-- Planejamento e direcionamento em aplicação nova
-- Processo de migração de Java para Kotlin
-- Uso de bibliotecas e frameworks Android
-- Aplicação de princípios de arquitetura de software (SOLID)
- <br> 
-  
-**Facilita.Tech** - Desenvolvedor Android Jr <br>
-*Mar 2022 até Fev 2024*
-Utilizando a Metodologia Scrum:
-- Desenvolvimento com a linguagem Kotlin. 
-- Desenvolvimento de interfaces gráficas
-- Comunicação com API Rest e banco de dados SQLite
-- Desenvolvimento utilizando GIT e GitHub.
- <br> 
- 
-**SENAC** - Professor no curso de Administrador de Banco de Dados<br>
-*Nov 2020 até o momento*
-Atuando no ensino da administração de banco de dados:
-- Banco de dados Relacionamental MySQL, MariaDB e SQLite.
-- Administração de recursos para manter um servidor BD.
-- Aplicações para consumir dados do banco
-- Monitoramento e manutenção de um banco.
-<br> 
- 
-**Meta Soluções** - Desenvolvedor de sistemas<br>
-*Maio 2020 até o momento*
-Atuação no desenvolvimento de aplicações, utilizando a metodologia ágil SCRUM:
-- Desenvolvimento de planilhas Excel utilizando VBA e banco Access.
-- Desenvolvimento de sistemas WEB com PHP, Javascript e Frameworks.
-- Criação e consumo de APIs para alimentar os sistemas
-- Plataforma E-Commerce.
+### Backend
 
-<br>
+* **C#**
+* **TypeScript**
+* **Java**
+* **Node.js**
+* **Python**
+* FastAPI
+* APIs REST
+* Firebase
 
+### Frontend
 
-**Império Maker** - Modelagem e Manufatura aditiva 3D<br>
-*November 2019 até Fev 2022*
+* **TypeScript**
+* JavaScript
+* HTML5
+* CSS3
+* React
+* Aplicações Web
 
-Atuação na impressão 3D:
-- Modelagem de peças com SketchUp, Fusion360 e Blender.
-- Impressão 3D em FDM.
-- Fresagem em CNC.
-- Produção de E-commerce.
+### Banco de Dados
 
-<br>
+* MySQL
+* PostgreSQL
+* SQLite
+* MongoDB
+* Firebase Realtime Database
 
-**FAINOR** - Ministro de Minicursos e Pesquisador IC <br>
-*Junho 2019 até Nov 2021*
+### Engenharia & DevOps
 
-> Aluno em projeto de Iniciação Científica, atuo especificamente com Física e Computação através da experimentação e desenvolvimento de sistemas de software e hardware.
-> Professor de minicurso **FPGA e PIC**, desde os conceitos teóricos, à prática e programação de placas de prototipagem, desenvolvendo assim projetos de hardware.
-> Professor de **Printed Circuit Board** Curso de curta duração, tendo abordado a teoria de placas PCI e a elaboração de projetos.
-<br>
+* Git / GitHub
+* CI/CD
+* Jenkins
+* Docker
+* Arquitetura de Software
+* SOLID
+* Clean Architecture
+* Testes automatizados
 
+### Hardware & Sistemas Embarcados
+
+* C
+* C++
+* Arduino
+* Microcontroladores
+* Prototipação eletrônica
+* IoT
+
+---
+
+## 🧠 Sobre meu trabalho
+
+Gosto especialmente de projetos que envolvem mais do que apenas implementar uma tela ou funcionalidade isolada.
+
+Tenho interesse em entender o sistema como um todo:
+
+```text
+Produto
+   ↓
+Requisitos
+   ↓
+Arquitetura
+   ↓
+Aplicação
+   ↓
+APIs
+   ↓
+Banco de Dados
+   ↓
+Infraestrutura
+   ↓
+Monitoramento e evolução
+```
+
+Essa visão sistêmica é uma das áreas que mais tenho buscado desenvolver profissionalmente, principalmente em **arquitetura e engenharia de software**.
+
+---
+
+## 🛠️ Alguns tipos de projetos que desenvolvo
+
+Ao longo da minha trajetória tenho trabalhado em projetos envolvendo:
+
+* Aplicações Android em Kotlin e Java
+* Arquiteturas Android multimódulo
+* Aplicações Flutter multiplataforma
+* APIs REST e serviços Backend
+* Sistemas administrativos e ERPs
+* Dashboards e painéis Web
+* Firebase e bancos relacionais
+* Sistemas de autenticação e autorização
+* Integrações entre aplicações
+* Automações
+* Inteligência Artificial aplicada a software
+* Simulações e projetos de engenharia
+* IoT e protótipos eletrônicos
+
+Também gosto bastante de construir projetos experimentais para estudar novas tecnologias e explorar ideias nas áreas de **IA, engenharia, ciência e computação**.
+
+---
+
+## 🎓 Formação
+
+### Engenharia de Computação
+
+**FAINOR — Faculdade Independente do Nordeste**
+
+Formação com base em desenvolvimento de software, eletrônica, sistemas embarcados, redes, banco de dados, engenharia e arquitetura computacional.
+
+### Logística e Administração
+
+**CEPRO**
+
+---
+
+## 🌱 Atualmente estudando
+
+Tenho aprofundado meus conhecimentos principalmente em:
+
+* Arquitetura de Software
+* Design de sistemas
+* Inteligência Artificial aplicada ao desenvolvimento
+* Cloud
+* Engenharia de Software
+* Desenvolvimento Mobile avançado
+* Sistemas distribuídos
+
+---
+
+## 🤝 Contato
+
+Se quiser conversar sobre **engenharia de software, Android, arquitetura, IA ou algum projeto interessante**, pode me encontrar por aqui:
+
+**LinkedIn:** [linkedin.com/in/EdgarOlv](https://www.linkedin.com/in/EdgarOlv)
+**E-mail:** [edgaroliveira1258@gmail.com](mailto:edgaroliveira1258@gmail.com)
